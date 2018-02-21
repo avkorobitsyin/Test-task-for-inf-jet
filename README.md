@@ -16,6 +16,6 @@ Cборка всех задач однострочной командой: mvn c
 
 Запуск всех тестов однострочной командой: mvn clean compile test
 
-Pапуск задач однострочной командой: mvn exec:java -Dmain.class=ClassName
+Запуск задач однострочной командой: mvn exec:java -Dmain.class=ClassName
 
 Например mvn exec:java -Dmain.class=Simple1
